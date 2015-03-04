@@ -1,0 +1,15 @@
+html, body{
+  .center-portrait-image{
+
+
+    background-image: url('images/inhak_border_web.jpg');
+    background-size: cover;
+    height: 12em;
+    margin: 3em auto 0;
+    width: 12em;
+  }
+  .portrait-title {
+    text-align: center;
+    font-size: 2.3em;
+  }
+}

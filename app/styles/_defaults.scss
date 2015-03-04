@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:500,700);
+
+$title-font: 'Raleway', sans-serif;
+$body-font: 'Big Caslon', serif;
+$black: #000000;
+$white: #ffffff;
+
+html, body {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $title-font;
+  }
+  p{
+    font-family: $body-font;
+  }
+}
